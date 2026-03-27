@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+argon2-cffi
+sqlalchemy
+pydantic
+pandas
+openpyxl
+requests
+psycopg2-binary
